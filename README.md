@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-by Nhat Tran
+by Nhat Tran 
+DevOps Eng
 
 ## Available Scripts
 
