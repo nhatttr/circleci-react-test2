@@ -80,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 6 Sep 2022: check main status
 25 Sep 2022 check jenkins setup 
 25 Sep 2022 check jenkins setup #2
+25 Sep 2022 check jenkins setup #3
