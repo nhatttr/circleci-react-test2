@@ -6,6 +6,7 @@ by Nhat Tran
 DevOps Eng
 Day 8 Sep 2022 testing. 
 25 Sep 2022 Testing Jenkins Deploying.
+testing jenkins #2
 
 ## Available Scripts
 
